@@ -1,6 +1,6 @@
 # MEVN APP
 
-Simple CRUD app which allows the user read, add, update and delete data using MEVN stack 
+Simple CRUD app which allows the user read, add, update and delete data
 
 Backend (see api folder): 
 - Implementation of CRUD using Node, ExpressJs, MongoDB & Mongoose
