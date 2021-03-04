@@ -6,7 +6,7 @@ Backend (see api folder):
 - Implementation of CRUD using Node, ExpressJs, MongoDB & Mongoose
 
 Frontend (see src folder):
-- Used Vuejs
+- Used Vuejs and Vue Router
 - Used Boostrap-vue 
 - Created a custom table component 
 - Created an API Services folder and used axios 
